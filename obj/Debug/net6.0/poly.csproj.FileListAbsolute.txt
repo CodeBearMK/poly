@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\poly\bin\Debug\net6.0\poly.exe
+D:\cat32tw\Desktop\poly\bin\Debug\net6.0\poly.deps.json
+D:\cat32tw\Desktop\poly\bin\Debug\net6.0\poly.runtimeconfig.json
+D:\cat32tw\Desktop\poly\bin\Debug\net6.0\poly.dll
+D:\cat32tw\Desktop\poly\bin\Debug\net6.0\ref\poly.dll
+D:\cat32tw\Desktop\poly\bin\Debug\net6.0\poly.pdb
+D:\cat32tw\Desktop\poly\obj\Debug\net6.0\poly.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\poly\obj\Debug\net6.0\poly.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\poly\obj\Debug\net6.0\poly.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\poly\obj\Debug\net6.0\poly.AssemblyInfo.cs
+D:\cat32tw\Desktop\poly\obj\Debug\net6.0\poly.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\poly\obj\Debug\net6.0\poly.dll
+D:\cat32tw\Desktop\poly\obj\Debug\net6.0\ref\poly.dll
+D:\cat32tw\Desktop\poly\obj\Debug\net6.0\poly.pdb
+D:\cat32tw\Desktop\poly\obj\Debug\net6.0\poly.genruntimeconfig.cache
